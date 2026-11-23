@@ -1,0 +1,5265 @@
+{
+ "faces": {
+  "slots": [
+   "px",
+   "nx",
+   "py",
+   "ny",
+   "pz",
+   "nz"
+  ],
+  "levels": [
+   "lo",
+   "hi"
+  ],
+  "sizes": {
+   "lo": 1024,
+   "hi": 2048
+  }
+ },
+ "pano_dirs": [
+  "pano"
+ ],
+ "depth": {
+  "dir": "depth",
+  "w": 256,
+  "h": 128,
+  "near": 0.25,
+  "far": 40
+ },
+ "mesh": {
+  "file": "mesh/d1101.bin",
+  "shift": [
+   -25.9,
+   0,
+   22.4
+  ]
+ },
+ "grade": {
+  "balcony_01|balcony_02": [
+   -0.01,
+   -0.01,
+   -0.02
+  ],
+  "balcony_01|balcony_03": [
+   0.17,
+   0.27,
+   0.3
+  ],
+  "balcony_01|balcony_04": [
+   0.03,
+   0.06,
+   0.09
+  ],
+  "balcony_01|balcony_05": [
+   -0.11,
+   -0.17,
+   -0.21
+  ],
+  "balcony_02|balcony_03": [
+   0.17,
+   0.29,
+   0.31
+  ],
+  "balcony_02|balcony_04": [
+   0.05,
+   0.13,
+   0.19
+  ],
+  "balcony_02|balcony_05": [
+   -0.16,
+   -0.24,
+   -0.25
+  ],
+  "balcony_02|living_11": [
+   0.63,
+   0.86,
+   0.96
+  ],
+  "balcony_03|balcony_04": [
+   -0.15,
+   -0.28,
+   -0.31
+  ],
+  "balcony_03|balcony_05": [
+   -0.38,
+   -0.71,
+   -0.78
+  ],
+  "balcony_04|balcony_05": [
+   -0.15,
+   -0.24,
+   -0.31
+  ],
+  "balcony_05|living_11": [
+   0.65,
+   0.99,
+   0.98
+  ],
+  "bed1_01|bed1_02": [
+   -0.15,
+   -0.19,
+   -0.2
+  ],
+  "bed1_01|bed1_04": [
+   -0.19,
+   -0.21,
+   -0.21
+  ],
+  "bed1_01|bed1_05": [
+   -0.14,
+   -0.12,
+   -0.06
+  ],
+  "bed1_01|living_01": [
+   -0.33,
+   -0.39,
+   -0.39
+  ],
+  "bed1_01|vest_01": [
+   -0.04,
+   -0.09,
+   -0.48
+  ],
+  "bed1_01|vest_02": [
+   0.06,
+   0.09,
+   0.08
+  ],
+  "bed1_02|bed1_03": [
+   0.09,
+   0.1,
+   0.1
+  ],
+  "bed1_02|bed1_04": [
+   -0.08,
+   -0.12,
+   -0.12
+  ],
+  "bed1_02|bed1_05": [
+   -0.08,
+   -0.11,
+   -0.1
+  ],
+  "bed1_03|bed1_04": [
+   -0.12,
+   -0.12,
+   -0.07
+  ],
+  "bed1_03|bed1_05": [
+   -0.15,
+   -0.15,
+   -0.07
+  ],
+  "bed1_04|bed1_05": [
+   -0.01,
+   -0.02,
+   -0.02
+  ],
+  "bed2_01|bed2_02": [
+   0.04,
+   0.05,
+   0.06
+  ],
+  "bed2_01|bed2_04": [
+   -0.16,
+   -0.18,
+   -0.17
+  ],
+  "bed2_01|bed2_05": [
+   -0.24,
+   -0.24,
+   -0.21
+  ],
+  "bed2_01|bed2_06": [
+   -0.12,
+   -0.05,
+   0.03
+  ],
+  "bed2_01|bed2_07": [
+   -0.24,
+   -0.28,
+   -0.23
+  ],
+  "bed2_01|kitchen_01": [
+   0.21,
+   0.35,
+   0.5
+  ],
+  "bed2_01|kitchen_03": [
+   0.19,
+   0.29,
+   0.23
+  ],
+  "bed2_01|kitchen_08": [
+   0.3,
+   0.45,
+   0.54
+  ],
+  "bed2_01|kitchen_09": [
+   0.28,
+   0.41,
+   0.48
+  ],
+  "bed2_01|kitchen_11": [
+   0.28,
+   0.4,
+   0.47
+  ],
+  "bed2_02|bed2_03": [
+   -0.02,
+   -0.05,
+   -0.06
+  ],
+  "bed2_02|bed2_04": [
+   -0.15,
+   -0.17,
+   -0.16
+  ],
+  "bed2_02|bed2_05": [
+   -0.24,
+   -0.26,
+   -0.23
+  ],
+  "bed2_02|bed2_07": [
+   -0.17,
+   -0.17,
+   -0.14
+  ],
+  "bed2_02|kitchen_09": [
+   0.18,
+   0.2,
+   0.18
+  ],
+  "bed2_02|kitchen_11": [
+   0.18,
+   0.21,
+   0.2
+  ],
+  "bed2_02|t2": [
+   1.28,
+   1.44,
+   1.4
+  ],
+  "bed2_03|bed2_04": [
+   -0.13,
+   -0.13,
+   -0.1
+  ],
+  "bed2_03|bed2_05": [
+   -0.23,
+   -0.24,
+   -0.19
+  ],
+  "bed2_03|bed2_06": [
+   -0.3,
+   -0.28,
+   -0.18
+  ],
+  "bed2_03|bed2_07": [
+   -0.29,
+   -0.29,
+   -0.24
+  ],
+  "bed2_03|t2": [
+   0.58,
+   0.57,
+   0.38
+  ],
+  "bed2_04|bed2_05": [
+   -0.1,
+   -0.1,
+   -0.08
+  ],
+  "bed2_04|bed2_06": [
+   -0.13,
+   -0.12,
+   -0.1
+  ],
+  "bed2_04|bed2_07": [
+   -0.09,
+   -0.1,
+   -0.09
+  ],
+  "bed2_04|kitchen_11": [
+   0.27,
+   0.26,
+   0.18
+  ],
+  "bed2_04|t2": [
+   0.78,
+   0.71,
+   0.31
+  ],
+  "bed2_05|bed2_06": [
+   0.0,
+   0.01,
+   0.01
+  ],
+  "bed2_05|bed2_07": [
+   0.01,
+   0.0,
+   0.0
+  ],
+  "bed2_06|bed2_07": [
+   -0.01,
+   -0.01,
+   -0.01
+  ],
+  "bed3_01|bed3_02": [
+   -0.07,
+   -0.09,
+   -0.11
+  ],
+  "bed3_01|bed3_03": [
+   -0.16,
+   -0.2,
+   -0.19
+  ],
+  "bed3_01|bed3_04": [
+   -0.15,
+   -0.19,
+   -0.19
+  ],
+  "bed3_01|bed3_05": [
+   -0.29,
+   -0.28,
+   -0.19
+  ],
+  "bed3_01|kitchen_09": [
+   -0.13,
+   -0.4,
+   -0.95
+  ],
+  "bed3_01|kitchen_11": [
+   -0.15,
+   -0.41,
+   -0.63
+  ],
+  "bed3_02|bed3_03": [
+   -0.09,
+   -0.11,
+   -0.1
+  ],
+  "bed3_02|bed3_04": [
+   -0.08,
+   -0.1,
+   -0.08
+  ],
+  "bed3_02|bed3_05": [
+   -0.27,
+   -0.24,
+   -0.12
+  ],
+  "bed3_03|bed3_04": [
+   -0.0,
+   0.0,
+   0.01
+  ],
+  "bed3_03|bed3_05": [
+   -0.14,
+   -0.11,
+   -0.04
+  ],
+  "bed3_03|t3": [
+   1.35,
+   1.6,
+   1.71
+  ],
+  "bed3_04|bed3_05": [
+   -0.13,
+   -0.12,
+   -0.05
+  ],
+  "bed3_04|t3": [
+   1.36,
+   1.56,
+   1.45
+  ],
+  "bed3_05|t3": [
+   1.59,
+   1.86,
+   1.75
+  ],
+  "kitchen_01|kitchen_02": [
+   0.14,
+   0.21,
+   0.25
+  ],
+  "kitchen_01|kitchen_03": [
+   0.12,
+   0.17,
+   0.2
+  ],
+  "kitchen_01|kitchen_04": [
+   -0.03,
+   -0.04,
+   -0.03
+  ],
+  "kitchen_01|kitchen_05": [
+   0.12,
+   0.17,
+   0.18
+  ],
+  "kitchen_01|kitchen_06": [
+   0.12,
+   0.2,
+   0.25
+  ],
+  "kitchen_01|kitchen_07": [
+   0.12,
+   0.19,
+   0.24
+  ],
+  "kitchen_01|kitchen_08": [
+   0.11,
+   0.15,
+   0.12
+  ],
+  "kitchen_01|kitchen_09": [
+   0.13,
+   0.2,
+   0.24
+  ],
+  "kitchen_01|kitchen_10": [
+   -0.07,
+   -0.08,
+   -0.06
+  ],
+  "kitchen_01|kitchen_11": [
+   0.15,
+   0.21,
+   0.23
+  ],
+  "kitchen_01|living_02": [
+   -0.07,
+   -0.1,
+   -0.14
+  ],
+  "kitchen_01|living_03": [
+   -0.08,
+   -0.1,
+   -0.11
+  ],
+  "kitchen_01|living_04": [
+   -0.09,
+   -0.11,
+   -0.11
+  ],
+  "kitchen_01|living_05": [
+   -0.09,
+   -0.13,
+   -0.14
+  ],
+  "kitchen_01|living_06": [
+   -0.08,
+   -0.11,
+   -0.12
+  ],
+  "kitchen_01|living_07": [
+   -0.15,
+   -0.22,
+   -0.24
+  ],
+  "kitchen_01|living_08": [
+   -0.06,
+   -0.08,
+   -0.07
+  ],
+  "kitchen_01|living_09": [
+   -0.06,
+   -0.08,
+   -0.09
+  ],
+  "kitchen_01|living_11": [
+   -0.01,
+   0.06,
+   0.16
+  ],
+  "kitchen_02|kitchen_03": [
+   -0.01,
+   -0.03,
+   -0.06
+  ],
+  "kitchen_02|kitchen_05": [
+   -0.02,
+   -0.04,
+   -0.05
+  ],
+  "kitchen_02|kitchen_07": [
+   0.01,
+   -0.01,
+   -0.01
+  ],
+  "kitchen_02|kitchen_08": [
+   -0.04,
+   -0.05,
+   -0.07
+  ],
+  "kitchen_02|kitchen_10": [
+   -0.19,
+   -0.28,
+   -0.29
+  ],
+  "kitchen_03|kitchen_04": [
+   -0.16,
+   -0.26,
+   -0.32
+  ],
+  "kitchen_03|kitchen_05": [
+   -0.01,
+   -0.01,
+   0.0
+  ],
+  "kitchen_03|kitchen_06": [
+   0.02,
+   0.02,
+   0.02
+  ],
+  "kitchen_03|kitchen_07": [
+   0.01,
+   0.02,
+   0.05
+  ],
+  "kitchen_03|kitchen_08": [
+   0.0,
+   0.0,
+   -0.01
+  ],
+  "kitchen_03|kitchen_09": [
+   -0.01,
+   -0.03,
+   -0.03
+  ],
+  "kitchen_03|kitchen_10": [
+   -0.16,
+   -0.21,
+   -0.2
+  ],
+  "kitchen_03|kitchen_11": [
+   -0.01,
+   -0.03,
+   -0.04
+  ],
+  "kitchen_03|living_03": [
+   -0.19,
+   -0.24,
+   -0.24
+  ],
+  "kitchen_03|living_05": [
+   -0.21,
+   -0.29,
+   -0.31
+  ],
+  "kitchen_03|living_06": [
+   -0.2,
+   -0.27,
+   -0.27
+  ],
+  "kitchen_03|living_07": [
+   -0.27,
+   -0.38,
+   -0.41
+  ],
+  "kitchen_03|living_08": [
+   -0.19,
+   -0.26,
+   -0.26
+  ],
+  "kitchen_03|living_09": [
+   -0.17,
+   -0.27,
+   -0.3
+  ],
+  "kitchen_04|kitchen_05": [
+   0.16,
+   0.23,
+   0.24
+  ],
+  "kitchen_04|kitchen_06": [
+   0.13,
+   0.2,
+   0.27
+  ],
+  "kitchen_04|kitchen_09": [
+   0.16,
+   0.23,
+   0.29
+  ],
+  "kitchen_04|kitchen_11": [
+   0.17,
+   0.2,
+   0.17
+  ],
+  "kitchen_04|living_02": [
+   -0.06,
+   -0.06,
+   -0.04
+  ],
+  "kitchen_04|living_03": [
+   -0.06,
+   -0.07,
+   -0.07
+  ],
+  "kitchen_04|living_04": [
+   -0.08,
+   -0.1,
+   -0.1
+  ],
+  "kitchen_04|living_05": [
+   -0.07,
+   -0.1,
+   -0.11
+  ],
+  "kitchen_04|living_06": [
+   -0.05,
+   -0.08,
+   -0.09
+  ],
+  "kitchen_04|living_07": [
+   -0.13,
+   -0.17,
+   -0.18
+  ],
+  "kitchen_04|living_08": [
+   -0.04,
+   -0.05,
+   -0.06
+  ],
+  "kitchen_04|living_09": [
+   -0.03,
+   -0.05,
+   -0.06
+  ],
+  "kitchen_04|living_10": [
+   -0.13,
+   -0.1,
+   -0.03
+  ],
+  "kitchen_04|living_11": [
+   0.0,
+   0.02,
+   0.03
+  ],
+  "kitchen_05|kitchen_06": [
+   0.02,
+   0.02,
+   -0.0
+  ],
+  "kitchen_05|kitchen_07": [
+   0.02,
+   0.03,
+   0.04
+  ],
+  "kitchen_05|kitchen_08": [
+   0.01,
+   0.0,
+   -0.01
+  ],
+  "kitchen_05|kitchen_09": [
+   -0.03,
+   -0.06,
+   -0.11
+  ],
+  "kitchen_05|kitchen_10": [
+   -0.15,
+   -0.22,
+   -0.22
+  ],
+  "kitchen_05|kitchen_11": [
+   -0.02,
+   -0.07,
+   -0.14
+  ],
+  "kitchen_05|living_06": [
+   -0.24,
+   -0.31,
+   -0.19
+  ],
+  "kitchen_05|living_07": [
+   -0.31,
+   -0.42,
+   -0.36
+  ],
+  "kitchen_05|living_09": [
+   -0.21,
+   -0.33,
+   -0.4
+  ],
+  "kitchen_06|kitchen_08": [
+   -0.03,
+   -0.04,
+   -0.02
+  ],
+  "kitchen_06|kitchen_09": [
+   -0.0,
+   -0.0,
+   0.0
+  ],
+  "kitchen_06|kitchen_11": [
+   -0.01,
+   -0.02,
+   -0.02
+  ],
+  "kitchen_06|living_03": [
+   -0.19,
+   -0.26,
+   -0.39
+  ],
+  "kitchen_06|living_05": [
+   -0.18,
+   -0.27,
+   -0.34
+  ],
+  "kitchen_06|living_06": [
+   -0.21,
+   -0.32,
+   -0.4
+  ],
+  "kitchen_06|living_07": [
+   -0.3,
+   -0.41,
+   -0.49
+  ],
+  "kitchen_06|living_08": [
+   -0.17,
+   -0.25,
+   -0.3
+  ],
+  "kitchen_06|living_09": [
+   -0.17,
+   -0.26,
+   -0.34
+  ],
+  "kitchen_07|kitchen_08": [
+   -0.01,
+   -0.03,
+   -0.05
+  ],
+  "kitchen_07|kitchen_10": [
+   -0.2,
+   -0.29,
+   -0.3
+  ],
+  "kitchen_07|kitchen_11": [
+   -0.02,
+   -0.07,
+   -0.15
+  ],
+  "kitchen_07|living_07": [
+   -0.3,
+   -0.45,
+   -0.45
+  ],
+  "kitchen_08|kitchen_09": [
+   0.02,
+   0.01,
+   0.0
+  ],
+  "kitchen_08|kitchen_10": [
+   -0.16,
+   -0.22,
+   -0.21
+  ],
+  "kitchen_08|kitchen_11": [
+   -0.01,
+   -0.01,
+   -0.02
+  ],
+  "kitchen_08|living_06": [
+   -0.18,
+   -0.23,
+   -0.14
+  ],
+  "kitchen_08|living_07": [
+   -0.29,
+   -0.38,
+   -0.27
+  ],
+  "kitchen_08|living_09": [
+   -0.16,
+   -0.26,
+   -0.3
+  ],
+  "kitchen_09|kitchen_10": [
+   -0.15,
+   -0.19,
+   -0.19
+  ],
+  "kitchen_09|kitchen_11": [
+   -0.01,
+   -0.02,
+   -0.01
+  ],
+  "kitchen_09|living_06": [
+   -0.24,
+   -0.35,
+   -0.43
+  ],
+  "kitchen_09|living_07": [
+   -0.26,
+   -0.39,
+   -0.5
+  ],
+  "kitchen_09|living_08": [
+   -0.3,
+   -0.36,
+   -0.31
+  ],
+  "kitchen_09|living_09": [
+   -0.2,
+   -0.29,
+   -0.38
+  ],
+  "kitchen_09|master_01": [
+   -0.49,
+   -0.71,
+   -0.82
+  ],
+  "kitchen_10|kitchen_11": [
+   0.2,
+   0.24,
+   0.21
+  ],
+  "kitchen_10|living_07": [
+   -0.1,
+   -0.13,
+   -0.11
+  ],
+  "kitchen_11|living_09": [
+   -0.26,
+   -0.32,
+   -0.32
+  ],
+  "kitchen_11|master_01": [
+   -0.48,
+   -0.66,
+   -0.65
+  ],
+  "kitchen_11|master_02": [
+   -0.06,
+   0.28,
+   0.85
+  ],
+  "living_01|living_02": [
+   -0.02,
+   -0.02,
+   -0.03
+  ],
+  "living_01|living_03": [
+   -0.02,
+   -0.03,
+   -0.05
+  ],
+  "living_01|living_04": [
+   -0.04,
+   -0.05,
+   -0.07
+  ],
+  "living_01|living_05": [
+   -0.04,
+   -0.05,
+   -0.06
+  ],
+  "living_01|living_06": [
+   -0.03,
+   -0.04,
+   -0.03
+  ],
+  "living_01|living_07": [
+   -0.11,
+   -0.15,
+   -0.15
+  ],
+  "living_01|living_09": [
+   0.0,
+   -0.01,
+   -0.03
+  ],
+  "living_01|vest_01": [
+   0.19,
+   0.28,
+   0.33
+  ],
+  "living_01|vest_02": [
+   0.08,
+   0.12,
+   0.15
+  ],
+  "living_02|living_03": [
+   0.0,
+   -0.0,
+   -0.0
+  ],
+  "living_02|living_04": [
+   -0.02,
+   -0.03,
+   -0.05
+  ],
+  "living_02|living_05": [
+   -0.03,
+   -0.04,
+   -0.04
+  ],
+  "living_02|living_06": [
+   -0.0,
+   -0.01,
+   -0.0
+  ],
+  "living_02|living_07": [
+   -0.08,
+   -0.12,
+   -0.13
+  ],
+  "living_02|living_08": [
+   0.01,
+   0.01,
+   0.0
+  ],
+  "living_02|living_09": [
+   0.03,
+   0.03,
+   0.04
+  ],
+  "living_02|living_11": [
+   0.05,
+   0.14,
+   0.2
+  ],
+  "living_02|t0": [
+   0.69,
+   0.95,
+   1.07
+  ],
+  "living_02|vest_01": [
+   0.22,
+   0.32,
+   0.42
+  ],
+  "living_02|vest_02": [
+   0.11,
+   0.16,
+   0.22
+  ],
+  "living_03|living_04": [
+   -0.02,
+   -0.03,
+   -0.04
+  ],
+  "living_03|living_05": [
+   -0.02,
+   -0.03,
+   -0.03
+  ],
+  "living_03|living_06": [
+   -0.0,
+   -0.01,
+   -0.01
+  ],
+  "living_03|living_07": [
+   -0.07,
+   -0.11,
+   -0.12
+  ],
+  "living_03|living_08": [
+   0.01,
+   0.01,
+   0.01
+  ],
+  "living_03|living_09": [
+   0.02,
+   0.03,
+   0.03
+  ],
+  "living_03|living_11": [
+   0.05,
+   0.13,
+   0.26
+  ],
+  "living_03|vest_01": [
+   0.21,
+   0.29,
+   0.38
+  ],
+  "living_03|vest_02": [
+   0.11,
+   0.16,
+   0.21
+  ],
+  "living_04|living_05": [
+   -0.0,
+   -0.0,
+   -0.0
+  ],
+  "living_04|living_06": [
+   0.02,
+   0.02,
+   0.02
+  ],
+  "living_04|living_07": [
+   -0.05,
+   -0.08,
+   -0.11
+  ],
+  "living_04|living_08": [
+   0.03,
+   0.03,
+   0.02
+  ],
+  "living_04|living_09": [
+   0.04,
+   0.05,
+   0.05
+  ],
+  "living_04|living_10": [
+   -0.04,
+   -0.04,
+   -0.05
+  ],
+  "living_04|living_11": [
+   0.07,
+   0.1,
+   0.09
+  ],
+  "living_04|vest_01": [
+   0.27,
+   0.52,
+   0.18
+  ],
+  "living_04|vest_02": [
+   0.14,
+   0.18,
+   0.2
+  ],
+  "living_05|living_06": [
+   0.01,
+   0.02,
+   0.02
+  ],
+  "living_05|living_07": [
+   -0.06,
+   -0.09,
+   -0.09
+  ],
+  "living_05|living_08": [
+   0.03,
+   0.03,
+   0.03
+  ],
+  "living_05|living_09": [
+   0.04,
+   0.05,
+   0.06
+  ],
+  "living_05|living_10": [
+   -0.05,
+   -0.03,
+   0.03
+  ],
+  "living_05|living_11": [
+   0.07,
+   0.1,
+   0.1
+  ],
+  "living_05|vest_02": [
+   0.13,
+   0.18,
+   0.21
+  ],
+  "living_06|living_07": [
+   -0.07,
+   -0.11,
+   -0.12
+  ],
+  "living_06|living_08": [
+   0.01,
+   0.02,
+   0.02
+  ],
+  "living_06|living_09": [
+   0.02,
+   0.03,
+   0.04
+  ],
+  "living_06|living_11": [
+   0.04,
+   0.12,
+   0.22
+  ],
+  "living_06|vest_02": [
+   0.13,
+   0.16,
+   0.17
+  ],
+  "living_07|living_08": [
+   0.09,
+   0.14,
+   0.18
+  ],
+  "living_07|living_09": [
+   0.1,
+   0.14,
+   0.14
+  ],
+  "living_07|living_11": [
+   0.14,
+   0.27,
+   0.46
+  ],
+  "living_07|vest_02": [
+   0.25,
+   0.31,
+   0.23
+  ],
+  "living_08|living_09": [
+   0.01,
+   0.01,
+   0.01
+  ],
+  "living_08|living_10": [
+   -0.06,
+   -0.07,
+   -0.07
+  ],
+  "living_08|living_11": [
+   0.03,
+   0.04,
+   0.04
+  ],
+  "living_09|living_10": [
+   -0.08,
+   -0.04,
+   0.07
+  ],
+  "living_09|living_11": [
+   0.03,
+   0.07,
+   0.08
+  ],
+  "living_10|living_11": [
+   0.07,
+   0.09,
+   0.09
+  ],
+  "master_01|master_02": [
+   -0.02,
+   -0.04,
+   -0.04
+  ],
+  "master_01|master_03": [
+   -0.03,
+   -0.04,
+   -0.05
+  ],
+  "master_01|master_04": [
+   -0.12,
+   -0.12,
+   -0.11
+  ],
+  "master_01|master_05": [
+   -0.21,
+   -0.2,
+   -0.18
+  ],
+  "master_01|master_06": [
+   -0.19,
+   -0.19,
+   -0.17
+  ],
+  "master_01|master_07": [
+   -0.15,
+   -0.14,
+   -0.13
+  ],
+  "master_02|master_03": [
+   -0.02,
+   -0.02,
+   -0.02
+  ],
+  "master_02|master_04": [
+   -0.26,
+   -0.22,
+   -0.13
+  ],
+  "master_02|master_05": [
+   -0.22,
+   -0.23,
+   -0.21
+  ],
+  "master_02|master_06": [
+   -0.35,
+   -0.32,
+   -0.25
+  ],
+  "master_02|master_07": [
+   -0.33,
+   -0.31,
+   -0.23
+  ],
+  "master_02|master_08": [
+   0.05,
+   0.1,
+   0.11
+  ],
+  "master_03|master_04": [
+   -0.16,
+   -0.14,
+   -0.11
+  ],
+  "master_03|master_05": [
+   -0.2,
+   -0.21,
+   -0.2
+  ],
+  "master_03|master_06": [
+   -0.34,
+   -0.36,
+   -0.39
+  ],
+  "master_03|master_07": [
+   -0.29,
+   -0.3,
+   -0.27
+  ],
+  "master_03|master_08": [
+   0.02,
+   0.04,
+   0.07
+  ],
+  "master_04|master_05": [
+   -0.02,
+   -0.02,
+   -0.03
+  ],
+  "master_04|master_06": [
+   -0.01,
+   -0.01,
+   -0.01
+  ],
+  "master_04|master_07": [
+   -0.01,
+   -0.01,
+   -0.02
+  ],
+  "master_04|master_08": [
+   0.14,
+   0.12,
+   0.09
+  ],
+  "master_05|master_06": [
+   -0.01,
+   -0.01,
+   -0.01
+  ],
+  "master_05|master_07": [
+   -0.0,
+   -0.0,
+   -0.0
+  ],
+  "master_05|master_08": [
+   0.17,
+   0.15,
+   0.12
+  ],
+  "master_06|master_07": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "master_06|master_08": [
+   0.15,
+   0.13,
+   0.1
+  ],
+  "master_07|master_08": [
+   0.15,
+   0.14,
+   0.11
+  ],
+  "master_08|tm": [
+   0.68,
+   0.65,
+   0.49
+  ],
+  "vest_01|vest_02": [
+   -0.09,
+   -0.14,
+   -0.18
+  ]
+ },
+ "start": "vest_01",
+ "tour": [
+  "vest_02",
+  "living_06",
+  "balcony_01",
+  "kitchen_05",
+  "bed1_02",
+  "bed2_04",
+  "bed3_03",
+  "master_07"
+ ],
+ "points": [
+  {
+   "id": "vest_01",
+   "room": "vest",
+   "title": "Entrance",
+   "line": "5'3\" × 7'4\" · 1.60 × 2.24 m",
+   "label": "Entrance, inside the main door",
+   "pano": "pano",
+   "pos": [
+    -0.029,
+    36.454,
+    -0.046
+   ],
+   "dir0": [
+    0.809,
+    0.0,
+    0.5878
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "living_01",
+     "kind": "floor",
+     "spot": [
+      1.51,
+      34.854,
+      -0.038
+     ]
+    },
+    {
+     "to": "vest_02",
+     "kind": "floor",
+     "spot": [
+      0.771,
+      34.854,
+      0.654
+     ]
+    }
+   ],
+   "near": [
+    "vest_02",
+    "living_01",
+    "living_02",
+    "living_03",
+    "bed1_01",
+    "living_04"
+   ]
+  },
+  {
+   "id": "vest_02",
+   "room": "vest",
+   "title": "Entrance",
+   "line": "5'3\" × 7'4\" · 1.60 × 2.24 m",
+   "label": "Entrance, by the console",
+   "pano": "pano",
+   "pos": [
+    0.771,
+    36.454,
+    0.654
+   ],
+   "dir0": [
+    0.891,
+    0.0,
+    0.454
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed1_01",
+     "kind": "floor",
+     "spot": [
+      0.347,
+      34.854,
+      3.573
+     ]
+    },
+    {
+     "to": "living_01",
+     "kind": "floor",
+     "spot": [
+      1.51,
+      34.854,
+      -0.038
+     ]
+    },
+    {
+     "to": "living_02",
+     "kind": "floor",
+     "spot": [
+      1.91,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "vest_01",
+     "kind": "floor",
+     "spot": [
+      -0.029,
+      34.854,
+      -0.046
+     ]
+    }
+   ],
+   "near": [
+    "living_01",
+    "vest_01",
+    "living_02",
+    "living_03",
+    "living_04",
+    "bed1_01",
+    "living_05",
+    "living_06",
+    "living_07"
+   ]
+  },
+  {
+   "id": "living_01",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, by the sideboard",
+   "pano": "pano",
+   "pos": [
+    1.51,
+    36.454,
+    -0.038
+   ],
+   "dir0": [
+    0.7431,
+    0.0,
+    0.6691
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "living_02",
+     "kind": "floor",
+     "spot": [
+      1.91,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_03",
+     "kind": "floor",
+     "spot": [
+      3.11,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_07",
+     "kind": "floor",
+     "spot": [
+      4.425,
+      34.854,
+      0.417
+     ]
+    },
+    {
+     "to": "vest_01",
+     "kind": "floor",
+     "spot": [
+      -0.029,
+      34.854,
+      -0.046
+     ]
+    },
+    {
+     "to": "vest_02",
+     "kind": "floor",
+     "spot": [
+      0.771,
+      34.854,
+      0.654
+     ]
+    }
+   ],
+   "near": [
+    "vest_02",
+    "living_02",
+    "vest_01",
+    "living_03",
+    "living_06",
+    "living_04",
+    "living_05",
+    "living_07",
+    "bed1_01",
+    "living_09"
+   ]
+  },
+  {
+   "id": "living_02",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, between the entrance and the sofa",
+   "pano": "pano",
+   "pos": [
+    1.91,
+    36.454,
+    1.062
+   ],
+   "dir0": [
+    0.9511,
+    0.0,
+    0.309
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "living_01",
+     "kind": "floor",
+     "spot": [
+      1.51,
+      34.854,
+      -0.038
+     ]
+    },
+    {
+     "to": "living_03",
+     "kind": "floor",
+     "spot": [
+      3.11,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_04",
+     "kind": "floor",
+     "spot": [
+      2.41,
+      34.854,
+      2.812
+     ]
+    },
+    {
+     "to": "living_05",
+     "kind": "floor",
+     "spot": [
+      3.51,
+      34.854,
+      2.262
+     ]
+    },
+    {
+     "to": "t0",
+     "kind": "floor",
+     "spot": [
+      -0.686,
+      34.854,
+      2.463
+     ]
+    },
+    {
+     "to": "vest_02",
+     "kind": "floor",
+     "spot": [
+      0.771,
+      34.854,
+      0.654
+     ]
+    }
+   ],
+   "near": [
+    "living_01",
+    "living_03",
+    "vest_02",
+    "living_04",
+    "living_05",
+    "living_06",
+    "vest_01",
+    "living_07",
+    "living_08",
+    "living_09",
+    "t0",
+    "kitchen_01",
+    "living_11",
+    "kitchen_04"
+   ]
+  },
+  {
+   "id": "living_03",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, in front of the sideboard",
+   "pano": "pano",
+   "pos": [
+    3.11,
+    36.454,
+    1.062
+   ],
+   "dir0": [
+    0.9877,
+    0.0,
+    0.1564
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "living_01",
+     "kind": "floor",
+     "spot": [
+      1.51,
+      34.854,
+      -0.038
+     ]
+    },
+    {
+     "to": "living_02",
+     "kind": "floor",
+     "spot": [
+      1.91,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_04",
+     "kind": "floor",
+     "spot": [
+      2.41,
+      34.854,
+      2.812
+     ]
+    },
+    {
+     "to": "living_05",
+     "kind": "floor",
+     "spot": [
+      3.51,
+      34.854,
+      2.262
+     ]
+    },
+    {
+     "to": "living_06",
+     "kind": "floor",
+     "spot": [
+      4.11,
+      34.854,
+      1.312
+     ]
+    },
+    {
+     "to": "living_07",
+     "kind": "floor",
+     "spot": [
+      4.71,
+      34.854,
+      0.462
+     ]
+    }
+   ],
+   "near": [
+    "living_06",
+    "living_02",
+    "living_05",
+    "living_07",
+    "living_04",
+    "living_01",
+    "living_09",
+    "kitchen_01",
+    "living_08",
+    "vest_02",
+    "kitchen_04",
+    "kitchen_03",
+    "vest_01",
+    "living_11",
+    "kitchen_06"
+   ]
+  },
+  {
+   "id": "living_04",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, beside the sofa",
+   "pano": "pano",
+   "pos": [
+    2.41,
+    36.454,
+    2.812
+   ],
+   "dir0": [
+    0.9135,
+    0.0,
+    -0.4067
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "living_02",
+     "kind": "floor",
+     "spot": [
+      1.91,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_03",
+     "kind": "floor",
+     "spot": [
+      3.11,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_05",
+     "kind": "floor",
+     "spot": [
+      3.51,
+      34.854,
+      2.262
+     ]
+    },
+    {
+     "to": "living_08",
+     "kind": "floor",
+     "spot": [
+      3.91,
+      34.854,
+      3.262
+     ]
+    },
+    {
+     "to": "living_10",
+     "kind": "floor",
+     "spot": [
+      2.41,
+      34.854,
+      5.062
+     ]
+    },
+    {
+     "to": "living_11",
+     "kind": "floor",
+     "spot": [
+      3.86,
+      34.854,
+      4.312
+     ]
+    }
+   ],
+   "near": [
+    "living_05",
+    "living_08",
+    "living_02",
+    "living_03",
+    "living_11",
+    "living_10",
+    "living_06",
+    "living_09",
+    "vest_02",
+    "living_01",
+    "kitchen_04",
+    "kitchen_01",
+    "living_07",
+    "vest_01"
+   ]
+  },
+  {
+   "id": "living_05",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, the middle of the room",
+   "pano": "pano",
+   "pos": [
+    3.51,
+    36.454,
+    2.262
+   ],
+   "dir0": [
+    0.9511,
+    0.0,
+    -0.309
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "kitchen_01",
+     "kind": "floor",
+     "spot": [
+      5.305,
+      34.854,
+      1.274
+     ]
+    },
+    {
+     "to": "kitchen_04",
+     "kind": "floor",
+     "spot": [
+      5.455,
+      34.854,
+      2.924
+     ]
+    },
+    {
+     "to": "living_02",
+     "kind": "floor",
+     "spot": [
+      1.91,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_03",
+     "kind": "floor",
+     "spot": [
+      3.11,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_04",
+     "kind": "floor",
+     "spot": [
+      2.41,
+      34.854,
+      2.812
+     ]
+    },
+    {
+     "to": "living_06",
+     "kind": "floor",
+     "spot": [
+      4.11,
+      34.854,
+      1.312
+     ]
+    },
+    {
+     "to": "living_08",
+     "kind": "floor",
+     "spot": [
+      3.91,
+      34.854,
+      3.262
+     ]
+    },
+    {
+     "to": "living_09",
+     "kind": "floor",
+     "spot": [
+      4.76,
+      34.854,
+      2.162
+     ]
+    }
+   ],
+   "near": [
+    "living_08",
+    "living_06",
+    "living_04",
+    "living_09",
+    "living_03",
+    "living_02",
+    "kitchen_01",
+    "kitchen_04",
+    "living_11",
+    "living_07",
+    "living_10",
+    "living_01",
+    "kitchen_06",
+    "vest_02",
+    "kitchen_03"
+   ]
+  },
+  {
+   "id": "living_06",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, between the sideboard and the dining table",
+   "pano": "pano",
+   "pos": [
+    4.11,
+    36.454,
+    1.312
+   ],
+   "dir0": [
+    0.9877,
+    0.0,
+    -0.1564
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_01",
+     "kind": "floor",
+     "spot": [
+      5.305,
+      34.854,
+      1.274
+     ]
+    },
+    {
+     "to": "living_03",
+     "kind": "floor",
+     "spot": [
+      3.11,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_05",
+     "kind": "floor",
+     "spot": [
+      3.51,
+      34.854,
+      2.262
+     ]
+    },
+    {
+     "to": "living_07",
+     "kind": "floor",
+     "spot": [
+      4.71,
+      34.854,
+      0.462
+     ]
+    },
+    {
+     "to": "living_08",
+     "kind": "floor",
+     "spot": [
+      3.91,
+      34.854,
+      3.262
+     ]
+    },
+    {
+     "to": "living_09",
+     "kind": "floor",
+     "spot": [
+      4.76,
+      34.854,
+      2.162
+     ]
+    }
+   ],
+   "near": [
+    "living_03",
+    "living_07",
+    "living_09",
+    "living_05",
+    "kitchen_01",
+    "living_08",
+    "kitchen_04",
+    "kitchen_03",
+    "living_02",
+    "living_04",
+    "kitchen_06",
+    "living_01",
+    "living_11",
+    "vest_02",
+    "kitchen_05",
+    "kitchen_09",
+    "kitchen_08"
+   ]
+  },
+  {
+   "id": "living_07",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, toward the kitchen",
+   "pano": "pano",
+   "pos": [
+    4.71,
+    36.454,
+    0.462
+   ],
+   "dir0": [
+    -0.5,
+    0.0,
+    0.866
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_01",
+     "kind": "floor",
+     "spot": [
+      5.305,
+      34.854,
+      1.274
+     ]
+    },
+    {
+     "to": "kitchen_03",
+     "kind": "floor",
+     "spot": [
+      6.005,
+      34.854,
+      0.174
+     ]
+    },
+    {
+     "to": "living_01",
+     "kind": "floor",
+     "spot": [
+      2.932,
+      34.854,
+      0.184
+     ]
+    },
+    {
+     "to": "living_03",
+     "kind": "floor",
+     "spot": [
+      3.11,
+      34.854,
+      1.062
+     ]
+    },
+    {
+     "to": "living_06",
+     "kind": "floor",
+     "spot": [
+      4.11,
+      34.854,
+      1.312
+     ]
+    },
+    {
+     "to": "living_09",
+     "kind": "floor",
+     "spot": [
+      4.76,
+      34.854,
+      2.162
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_01",
+    "living_06",
+    "kitchen_03",
+    "living_09",
+    "living_03",
+    "living_05",
+    "kitchen_05",
+    "kitchen_04",
+    "living_02",
+    "living_08",
+    "kitchen_06",
+    "kitchen_08",
+    "living_01",
+    "living_04",
+    "kitchen_07",
+    "kitchen_09",
+    "kitchen_10",
+    "living_11",
+    "vest_02"
+   ]
+  },
+  {
+   "id": "living_08",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, by the TV",
+   "pano": "pano",
+   "pos": [
+    3.91,
+    36.454,
+    3.262
+   ],
+   "dir0": [
+    0.8387,
+    0.0,
+    -0.5446
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_04",
+     "kind": "door",
+     "spot": [
+      5.455,
+      35.854,
+      2.924
+     ]
+    },
+    {
+     "to": "living_04",
+     "kind": "floor",
+     "spot": [
+      2.41,
+      34.854,
+      2.812
+     ]
+    },
+    {
+     "to": "living_05",
+     "kind": "floor",
+     "spot": [
+      3.51,
+      34.854,
+      2.262
+     ]
+    },
+    {
+     "to": "living_06",
+     "kind": "floor",
+     "spot": [
+      4.11,
+      34.854,
+      1.312
+     ]
+    },
+    {
+     "to": "living_09",
+     "kind": "floor",
+     "spot": [
+      4.76,
+      34.854,
+      2.162
+     ]
+    },
+    {
+     "to": "living_10",
+     "kind": "floor",
+     "spot": [
+      2.41,
+      34.854,
+      5.062
+     ]
+    },
+    {
+     "to": "living_11",
+     "kind": "floor",
+     "spot": [
+      3.86,
+      34.854,
+      4.312
+     ]
+    }
+   ],
+   "near": [
+    "living_11",
+    "living_05",
+    "living_09",
+    "living_04",
+    "kitchen_04",
+    "living_06",
+    "living_03",
+    "living_10",
+    "kitchen_01",
+    "kitchen_06",
+    "living_07",
+    "living_02",
+    "kitchen_09",
+    "kitchen_03"
+   ]
+  },
+  {
+   "id": "living_09",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, between the TV and the dining table",
+   "pano": "pano",
+   "pos": [
+    4.76,
+    36.454,
+    2.162
+   ],
+   "dir0": [
+    0.9659,
+    0.0,
+    -0.2588
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_01",
+     "kind": "floor",
+     "spot": [
+      5.305,
+      34.854,
+      1.274
+     ]
+    },
+    {
+     "to": "kitchen_04",
+     "kind": "floor",
+     "spot": [
+      5.455,
+      34.854,
+      2.924
+     ]
+    },
+    {
+     "to": "kitchen_06",
+     "kind": "floor",
+     "spot": [
+      6.505,
+      34.854,
+      2.974
+     ]
+    },
+    {
+     "to": "living_05",
+     "kind": "floor",
+     "spot": [
+      3.51,
+      34.854,
+      2.262
+     ]
+    },
+    {
+     "to": "living_06",
+     "kind": "floor",
+     "spot": [
+      4.11,
+      34.854,
+      1.312
+     ]
+    },
+    {
+     "to": "living_07",
+     "kind": "floor",
+     "spot": [
+      4.71,
+      34.854,
+      0.462
+     ]
+    },
+    {
+     "to": "living_08",
+     "kind": "floor",
+     "spot": [
+      3.91,
+      34.854,
+      3.262
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_04",
+    "kitchen_01",
+    "living_06",
+    "living_05",
+    "living_08",
+    "living_07",
+    "kitchen_06",
+    "living_03",
+    "living_11",
+    "kitchen_03",
+    "living_04",
+    "kitchen_09",
+    "living_02",
+    "kitchen_11",
+    "kitchen_08",
+    "kitchen_05",
+    "living_10",
+    "living_01"
+   ]
+  },
+  {
+   "id": "living_10",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, by the balcony slider",
+   "pano": "pano",
+   "pos": [
+    2.41,
+    36.454,
+    5.062
+   ],
+   "dir0": [
+    0.4067,
+    0.0,
+    -0.9135
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "living_04",
+     "kind": "floor",
+     "spot": [
+      2.41,
+      34.854,
+      2.812
+     ]
+    },
+    {
+     "to": "living_08",
+     "kind": "floor",
+     "spot": [
+      3.91,
+      34.854,
+      3.262
+     ]
+    },
+    {
+     "to": "living_11",
+     "kind": "floor",
+     "spot": [
+      3.86,
+      34.854,
+      4.312
+     ]
+    }
+   ],
+   "near": [
+    "living_11",
+    "living_04",
+    "living_08",
+    "living_05",
+    "kitchen_04",
+    "living_09"
+   ]
+  },
+  {
+   "id": "living_11",
+   "room": "living",
+   "title": "Living",
+   "line": "13'0\" × 20'0\" · 3.96 × 6.10 m",
+   "label": "Living, between the TV and the balcony slider",
+   "pano": "pano",
+   "pos": [
+    3.86,
+    36.454,
+    4.312
+   ],
+   "dir0": [
+    0.2079,
+    0.0,
+    -0.9781
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_04",
+     "kind": "door",
+     "spot": [
+      5.455,
+      35.854,
+      2.924
+     ]
+    },
+    {
+     "to": "living_04",
+     "kind": "door",
+     "spot": [
+      2.41,
+      35.854,
+      2.812
+     ]
+    },
+    {
+     "to": "living_08",
+     "kind": "floor",
+     "spot": [
+      3.91,
+      34.854,
+      3.262
+     ]
+    },
+    {
+     "to": "living_10",
+     "kind": "floor",
+     "spot": [
+      2.41,
+      34.854,
+      5.062
+     ]
+    },
+    {
+     "to": "balcony_02",
+     "kind": "door",
+     "spot": [
+      3.881,
+      36.154,
+      5.638
+     ],
+     "via": "door"
+    },
+    {
+     "to": "balcony_05",
+     "kind": "door",
+     "spot": [
+      2.903,
+      36.154,
+      5.633
+     ],
+     "via": "door"
+    }
+   ],
+   "near": [
+    "living_08",
+    "living_10",
+    "living_05",
+    "living_04",
+    "kitchen_04",
+    "living_09",
+    "living_06",
+    "living_03",
+    "kitchen_01",
+    "living_02",
+    "living_07",
+    "balcony_02",
+    "balcony_05"
+   ]
+  },
+  {
+   "id": "kitchen_01",
+   "room": "kitchen",
+   "title": "Dining",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Dining, at the table",
+   "pano": "pano",
+   "pos": [
+    5.305,
+    36.454,
+    1.274
+   ],
+   "dir0": [
+    -0.9659,
+    0.0,
+    0.2588
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "kitchen_03",
+     "kind": "floor",
+     "spot": [
+      6.005,
+      34.854,
+      0.174
+     ]
+    },
+    {
+     "to": "kitchen_04",
+     "kind": "floor",
+     "spot": [
+      5.455,
+      34.854,
+      2.924
+     ]
+    },
+    {
+     "to": "kitchen_06",
+     "kind": "door",
+     "spot": [
+      6.505,
+      35.854,
+      2.974
+     ]
+    },
+    {
+     "to": "kitchen_08",
+     "kind": "door",
+     "spot": [
+      7.707,
+      35.854,
+      0.581
+     ]
+    },
+    {
+     "to": "kitchen_11",
+     "kind": "door",
+     "spot": [
+      7.685,
+      35.854,
+      2.04
+     ]
+    },
+    {
+     "to": "living_05",
+     "kind": "floor",
+     "spot": [
+      3.51,
+      34.854,
+      2.262
+     ]
+    },
+    {
+     "to": "living_06",
+     "kind": "floor",
+     "spot": [
+      4.11,
+      34.854,
+      1.312
+     ]
+    },
+    {
+     "to": "living_07",
+     "kind": "floor",
+     "spot": [
+      4.71,
+      34.854,
+      0.462
+     ]
+    },
+    {
+     "to": "living_09",
+     "kind": "floor",
+     "spot": [
+      4.76,
+      34.854,
+      2.162
+     ]
+    }
+   ],
+   "near": [
+    "living_07",
+    "living_09",
+    "living_06",
+    "kitchen_03",
+    "kitchen_04",
+    "living_05",
+    "kitchen_06",
+    "living_03",
+    "living_08",
+    "kitchen_05",
+    "kitchen_08",
+    "kitchen_09",
+    "kitchen_02",
+    "kitchen_11",
+    "living_04",
+    "living_11",
+    "living_02",
+    "bed2_01",
+    "kitchen_07",
+    "kitchen_10"
+   ]
+  },
+  {
+   "id": "kitchen_02",
+   "room": "kitchen",
+   "title": "Kitchen",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Kitchen, at the sink",
+   "pano": "pano",
+   "pos": [
+    5.505,
+    36.454,
+    -1.626
+   ],
+   "dir0": [
+    0.4067,
+    0.0,
+    0.9135
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_03",
+     "kind": "floor",
+     "spot": [
+      6.005,
+      34.854,
+      0.174
+     ]
+    },
+    {
+     "to": "kitchen_05",
+     "kind": "floor",
+     "spot": [
+      6.855,
+      34.854,
+      -0.826
+     ]
+    },
+    {
+     "to": "kitchen_07",
+     "kind": "floor",
+     "spot": [
+      7.505,
+      34.854,
+      -1.626
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_05",
+    "kitchen_03",
+    "kitchen_07",
+    "kitchen_10",
+    "kitchen_01",
+    "kitchen_08"
+   ]
+  },
+  {
+   "id": "kitchen_03",
+   "room": "kitchen",
+   "title": "Dining",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Dining, between the table and the kitchen",
+   "pano": "pano",
+   "pos": [
+    6.005,
+    36.454,
+    0.174
+   ],
+   "dir0": [
+    -0.8387,
+    0.0,
+    0.5446
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_01",
+     "kind": "floor",
+     "spot": [
+      5.305,
+      34.854,
+      1.274
+     ]
+    },
+    {
+     "to": "kitchen_02",
+     "kind": "door",
+     "spot": [
+      5.505,
+      35.854,
+      -1.626
+     ]
+    },
+    {
+     "to": "kitchen_05",
+     "kind": "floor",
+     "spot": [
+      6.855,
+      34.854,
+      -0.826
+     ]
+    },
+    {
+     "to": "kitchen_06",
+     "kind": "door",
+     "spot": [
+      6.444,
+      35.854,
+      2.635
+     ]
+    },
+    {
+     "to": "kitchen_08",
+     "kind": "floor",
+     "spot": [
+      7.905,
+      34.854,
+      0.524
+     ]
+    },
+    {
+     "to": "kitchen_11",
+     "kind": "door",
+     "spot": [
+      7.853,
+      35.854,
+      1.858
+     ]
+    },
+    {
+     "to": "living_07",
+     "kind": "floor",
+     "spot": [
+      4.71,
+      34.854,
+      0.462
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_01",
+    "kitchen_05",
+    "living_07",
+    "kitchen_02",
+    "kitchen_08",
+    "living_06",
+    "kitchen_07",
+    "living_09",
+    "kitchen_10",
+    "kitchen_04",
+    "kitchen_06",
+    "living_03",
+    "kitchen_11",
+    "kitchen_09",
+    "living_05",
+    "living_08",
+    "bed2_01"
+   ]
+  },
+  {
+   "id": "kitchen_04",
+   "room": "kitchen",
+   "title": "Dining",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Dining, toward the living",
+   "pano": "pano",
+   "pos": [
+    5.455,
+    36.454,
+    2.924
+   ],
+   "dir0": [
+    -0.9511,
+    0.0,
+    -0.309
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_01",
+     "kind": "floor",
+     "spot": [
+      5.305,
+      34.854,
+      1.274
+     ]
+    },
+    {
+     "to": "kitchen_06",
+     "kind": "floor",
+     "spot": [
+      6.505,
+      34.854,
+      2.974
+     ]
+    },
+    {
+     "to": "living_05",
+     "kind": "floor",
+     "spot": [
+      3.51,
+      34.854,
+      2.262
+     ]
+    },
+    {
+     "to": "living_08",
+     "kind": "floor",
+     "spot": [
+      3.91,
+      34.854,
+      3.262
+     ]
+    },
+    {
+     "to": "living_09",
+     "kind": "floor",
+     "spot": [
+      4.76,
+      34.854,
+      2.162
+     ]
+    },
+    {
+     "to": "living_11",
+     "kind": "floor",
+     "spot": [
+      3.86,
+      34.854,
+      4.312
+     ]
+    }
+   ],
+   "near": [
+    "living_09",
+    "kitchen_06",
+    "living_08",
+    "kitchen_01",
+    "kitchen_09",
+    "living_05",
+    "living_06",
+    "living_11",
+    "living_07",
+    "kitchen_03",
+    "kitchen_11",
+    "living_03",
+    "living_04",
+    "living_10",
+    "kitchen_05",
+    "living_02"
+   ]
+  },
+  {
+   "id": "kitchen_05",
+   "room": "kitchen",
+   "title": "Kitchen",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Kitchen, the middle",
+   "pano": "pano",
+   "pos": [
+    6.855,
+    36.454,
+    -0.826
+   ],
+   "dir0": [
+    -0.4067,
+    0.0,
+    0.9135
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_02",
+     "kind": "floor",
+     "spot": [
+      5.505,
+      34.854,
+      -1.626
+     ]
+    },
+    {
+     "to": "kitchen_03",
+     "kind": "floor",
+     "spot": [
+      6.005,
+      34.854,
+      0.174
+     ]
+    },
+    {
+     "to": "kitchen_07",
+     "kind": "floor",
+     "spot": [
+      7.505,
+      34.854,
+      -1.626
+     ]
+    },
+    {
+     "to": "kitchen_08",
+     "kind": "floor",
+     "spot": [
+      7.905,
+      34.854,
+      0.524
+     ]
+    },
+    {
+     "to": "kitchen_10",
+     "kind": "floor",
+     "spot": [
+      8.305,
+      34.854,
+      -0.926
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_07",
+    "kitchen_03",
+    "kitchen_10",
+    "kitchen_02",
+    "kitchen_08",
+    "living_07",
+    "kitchen_01",
+    "kitchen_11",
+    "living_06",
+    "living_09",
+    "kitchen_09",
+    "kitchen_06",
+    "kitchen_04"
+   ]
+  },
+  {
+   "id": "kitchen_06",
+   "room": "kitchen",
+   "title": "Dining",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Dining, beside the table",
+   "pano": "pano",
+   "pos": [
+    6.505,
+    36.454,
+    2.974
+   ],
+   "dir0": [
+    -0.9511,
+    0.0,
+    -0.309
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_01",
+     "kind": "door",
+     "spot": [
+      5.305,
+      35.854,
+      1.274
+     ]
+    },
+    {
+     "to": "kitchen_03",
+     "kind": "door",
+     "spot": [
+      6.066,
+      35.854,
+      0.513
+     ]
+    },
+    {
+     "to": "kitchen_04",
+     "kind": "floor",
+     "spot": [
+      5.455,
+      34.854,
+      2.924
+     ]
+    },
+    {
+     "to": "kitchen_08",
+     "kind": "door",
+     "spot": [
+      7.745,
+      35.854,
+      0.803
+     ]
+    },
+    {
+     "to": "kitchen_09",
+     "kind": "floor",
+     "spot": [
+      7.505,
+      34.854,
+      2.924
+     ]
+    },
+    {
+     "to": "living_09",
+     "kind": "floor",
+     "spot": [
+      4.76,
+      34.854,
+      2.162
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_09",
+    "kitchen_04",
+    "kitchen_11",
+    "living_09",
+    "kitchen_01",
+    "living_08",
+    "kitchen_08",
+    "kitchen_03",
+    "living_06",
+    "living_05",
+    "living_07",
+    "kitchen_05",
+    "living_03"
+   ]
+  },
+  {
+   "id": "kitchen_07",
+   "room": "kitchen",
+   "title": "Kitchen",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Kitchen, at the hob",
+   "pano": "pano",
+   "pos": [
+    7.505,
+    36.454,
+    -1.626
+   ],
+   "dir0": [
+    -0.3584,
+    0.0,
+    0.9336
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_02",
+     "kind": "floor",
+     "spot": [
+      5.505,
+      34.854,
+      -1.626
+     ]
+    },
+    {
+     "to": "kitchen_05",
+     "kind": "floor",
+     "spot": [
+      6.855,
+      34.854,
+      -0.826
+     ]
+    },
+    {
+     "to": "kitchen_08",
+     "kind": "floor",
+     "spot": [
+      7.905,
+      34.854,
+      0.524
+     ]
+    },
+    {
+     "to": "kitchen_10",
+     "kind": "floor",
+     "spot": [
+      8.305,
+      34.854,
+      -0.926
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_05",
+    "kitchen_10",
+    "kitchen_02",
+    "kitchen_08",
+    "kitchen_03",
+    "living_07",
+    "kitchen_01",
+    "kitchen_11"
+   ]
+  },
+  {
+   "id": "kitchen_08",
+   "room": "kitchen",
+   "title": "Dining",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Dining, by the puja niche",
+   "pano": "pano",
+   "pos": [
+    7.905,
+    36.454,
+    0.524
+   ],
+   "dir0": [
+    -0.9877,
+    0.0,
+    0.1564
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_01",
+     "kind": "door",
+     "spot": [
+      5.503,
+      35.854,
+      1.217
+     ]
+    },
+    {
+     "to": "kitchen_03",
+     "kind": "floor",
+     "spot": [
+      6.005,
+      34.854,
+      0.174
+     ]
+    },
+    {
+     "to": "kitchen_05",
+     "kind": "floor",
+     "spot": [
+      6.855,
+      34.854,
+      -0.826
+     ]
+    },
+    {
+     "to": "kitchen_06",
+     "kind": "door",
+     "spot": [
+      6.665,
+      35.854,
+      2.695
+     ]
+    },
+    {
+     "to": "kitchen_07",
+     "kind": "floor",
+     "spot": [
+      7.505,
+      34.854,
+      -1.626
+     ]
+    },
+    {
+     "to": "kitchen_10",
+     "kind": "floor",
+     "spot": [
+      8.305,
+      34.854,
+      -0.926
+     ]
+    },
+    {
+     "to": "kitchen_11",
+     "kind": "floor",
+     "spot": [
+      8.255,
+      34.854,
+      2.224
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_10",
+    "kitchen_05",
+    "kitchen_11",
+    "kitchen_03",
+    "kitchen_07",
+    "kitchen_09",
+    "kitchen_01",
+    "kitchen_06",
+    "bed2_01",
+    "living_07",
+    "kitchen_02",
+    "living_09",
+    "living_06"
+   ]
+  },
+  {
+   "id": "kitchen_09",
+   "room": "kitchen",
+   "title": "Dining",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Dining, at Bedroom 2's door",
+   "pano": "pano",
+   "pos": [
+    7.505,
+    36.454,
+    2.924
+   ],
+   "dir0": [
+    -0.9135,
+    0.0,
+    -0.4067
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed2_01",
+     "kind": "floor",
+     "spot": [
+      7.947,
+      34.854,
+      3.821
+     ]
+    },
+    {
+     "to": "kitchen_06",
+     "kind": "floor",
+     "spot": [
+      6.505,
+      34.854,
+      2.974
+     ]
+    },
+    {
+     "to": "kitchen_11",
+     "kind": "floor",
+     "spot": [
+      8.255,
+      34.854,
+      2.224
+     ]
+    }
+   ],
+   "near": [
+    "bed2_01",
+    "kitchen_06",
+    "kitchen_11",
+    "kitchen_04",
+    "bed2_02",
+    "kitchen_08",
+    "kitchen_01",
+    "living_09",
+    "kitchen_03",
+    "master_01",
+    "living_08",
+    "living_07",
+    "living_06",
+    "kitchen_05",
+    "bed3_01",
+    "kitchen_10"
+   ]
+  },
+  {
+   "id": "kitchen_10",
+   "room": "kitchen",
+   "title": "Kitchen",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Kitchen, by the utility door",
+   "pano": "pano",
+   "pos": [
+    8.305,
+    36.454,
+    -0.926
+   ],
+   "dir0": [
+    -0.5878,
+    0.0,
+    0.809
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_05",
+     "kind": "floor",
+     "spot": [
+      6.855,
+      34.854,
+      -0.826
+     ]
+    },
+    {
+     "to": "kitchen_07",
+     "kind": "floor",
+     "spot": [
+      7.505,
+      34.854,
+      -1.626
+     ]
+    },
+    {
+     "to": "kitchen_08",
+     "kind": "floor",
+     "spot": [
+      7.905,
+      34.854,
+      0.524
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_07",
+    "kitchen_05",
+    "kitchen_08",
+    "kitchen_03",
+    "kitchen_02",
+    "kitchen_11",
+    "kitchen_01",
+    "living_07",
+    "kitchen_09"
+   ]
+  },
+  {
+   "id": "kitchen_11",
+   "room": "kitchen",
+   "title": "Dining",
+   "line": "11'0\" × 20'0\" · 3.35 × 6.10 m",
+   "label": "Dining, at the bedroom passage",
+   "pano": "pano",
+   "pos": [
+    8.255,
+    36.454,
+    2.224
+   ],
+   "dir0": [
+    -0.9659,
+    0.0,
+    -0.2588
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed2_01",
+     "kind": "floor",
+     "spot": [
+      7.882,
+      34.854,
+      3.689
+     ]
+    },
+    {
+     "to": "bed3_01",
+     "kind": "floor",
+     "spot": [
+      11.148,
+      34.854,
+      1.559
+     ]
+    },
+    {
+     "to": "kitchen_01",
+     "kind": "door",
+     "spot": [
+      5.875,
+      35.854,
+      1.458
+     ]
+    },
+    {
+     "to": "kitchen_03",
+     "kind": "door",
+     "spot": [
+      6.407,
+      35.854,
+      0.54
+     ]
+    },
+    {
+     "to": "kitchen_08",
+     "kind": "floor",
+     "spot": [
+      7.905,
+      34.854,
+      0.524
+     ]
+    },
+    {
+     "to": "kitchen_09",
+     "kind": "floor",
+     "spot": [
+      7.505,
+      34.854,
+      2.924
+     ]
+    },
+    {
+     "to": "master_01",
+     "kind": "floor",
+     "spot": [
+      10.922,
+      34.854,
+      2.859
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_09",
+    "bed2_01",
+    "kitchen_08",
+    "kitchen_06",
+    "master_01",
+    "kitchen_04",
+    "bed2_02",
+    "bed3_01",
+    "kitchen_03",
+    "kitchen_01",
+    "kitchen_10",
+    "bed2_04",
+    "kitchen_05",
+    "living_09",
+    "kitchen_07",
+    "master_02"
+   ]
+  },
+  {
+   "id": "balcony_01",
+   "room": "balcony",
+   "title": "Living balcony",
+   "line": "13'0\" × 7'11\" · 3.96 × 2.41 m",
+   "label": "Living balcony, the middle",
+   "pano": "pano",
+   "pos": [
+    2.898,
+    36.454,
+    6.927
+   ],
+   "dir0": [
+    0.9986,
+    0.0,
+    -0.0523
+   ],
+   "eye_h": 1.601,
+   "links": [
+    {
+     "to": "balcony_02",
+     "kind": "floor",
+     "spot": [
+      3.898,
+      34.854,
+      6.877
+     ]
+    },
+    {
+     "to": "balcony_04",
+     "kind": "floor",
+     "spot": [
+      1.498,
+      34.854,
+      6.177
+     ]
+    },
+    {
+     "to": "balcony_05",
+     "kind": "floor",
+     "spot": [
+      1.848,
+      34.854,
+      7.277
+     ]
+    }
+   ],
+   "near": [
+    "balcony_02",
+    "balcony_05",
+    "balcony_04",
+    "balcony_03"
+   ]
+  },
+  {
+   "id": "balcony_02",
+   "room": "balcony",
+   "title": "Living balcony",
+   "line": "13'0\" × 7'11\" · 3.96 × 2.41 m",
+   "label": "Living balcony, toward Bedroom 2",
+   "pano": "pano",
+   "pos": [
+    3.898,
+    36.454,
+    6.877
+   ],
+   "dir0": [
+    -0.9877,
+    0.0,
+    0.1564
+   ],
+   "eye_h": 1.601,
+   "links": [
+    {
+     "to": "balcony_01",
+     "kind": "floor",
+     "spot": [
+      2.898,
+      34.854,
+      6.927
+     ]
+    },
+    {
+     "to": "balcony_03",
+     "kind": "floor",
+     "spot": [
+      4.648,
+      34.854,
+      6.177
+     ]
+    },
+    {
+     "to": "living_11",
+     "kind": "door",
+     "spot": [
+      3.881,
+      36.154,
+      5.818
+     ],
+     "via": "door"
+    }
+   ],
+   "near": [
+    "balcony_01",
+    "balcony_03",
+    "balcony_05",
+    "balcony_04",
+    "living_11"
+   ]
+  },
+  {
+   "id": "balcony_03",
+   "room": "balcony",
+   "title": "Living balcony",
+   "line": "13'0\" × 7'11\" · 3.96 × 2.41 m",
+   "label": "Living balcony, at the slider, TV side",
+   "pano": "pano",
+   "pos": [
+    4.648,
+    36.454,
+    6.177
+   ],
+   "dir0": [
+    -0.891,
+    0.0,
+    0.454
+   ],
+   "eye_h": 1.601,
+   "links": [
+    {
+     "to": "balcony_02",
+     "kind": "floor",
+     "spot": [
+      3.898,
+      34.854,
+      6.877
+     ]
+    },
+    {
+     "to": "balcony_04",
+     "kind": "floor",
+     "spot": [
+      1.698,
+      34.854,
+      6.177
+     ]
+    }
+   ],
+   "near": [
+    "balcony_02",
+    "balcony_01",
+    "balcony_05",
+    "balcony_04"
+   ]
+  },
+  {
+   "id": "balcony_04",
+   "room": "balcony",
+   "title": "Living balcony",
+   "line": "13'0\" × 7'11\" · 3.96 × 2.41 m",
+   "label": "Living balcony, at the slider, sofa side",
+   "pano": "pano",
+   "pos": [
+    1.498,
+    36.454,
+    6.177
+   ],
+   "dir0": [
+    0.891,
+    0.0,
+    0.454
+   ],
+   "eye_h": 1.601,
+   "links": [
+    {
+     "to": "balcony_01",
+     "kind": "floor",
+     "spot": [
+      2.898,
+      34.854,
+      6.927
+     ]
+    },
+    {
+     "to": "balcony_03",
+     "kind": "floor",
+     "spot": [
+      4.448,
+      34.854,
+      6.177
+     ]
+    },
+    {
+     "to": "balcony_05",
+     "kind": "floor",
+     "spot": [
+      1.848,
+      34.854,
+      7.277
+     ]
+    }
+   ],
+   "near": [
+    "balcony_05",
+    "balcony_01",
+    "balcony_02",
+    "balcony_03"
+   ]
+  },
+  {
+   "id": "balcony_05",
+   "room": "balcony",
+   "title": "Living balcony",
+   "line": "13'0\" × 7'11\" · 3.96 × 2.41 m",
+   "label": "Living balcony, by the seating",
+   "pano": "pano",
+   "pos": [
+    1.848,
+    36.454,
+    7.277
+   ],
+   "dir0": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "balcony_01",
+     "kind": "floor",
+     "spot": [
+      2.898,
+      34.854,
+      6.927
+     ]
+    },
+    {
+     "to": "balcony_04",
+     "kind": "floor",
+     "spot": [
+      1.498,
+      34.854,
+      6.177
+     ]
+    },
+    {
+     "to": "living_11",
+     "kind": "door",
+     "spot": [
+      2.902,
+      36.154,
+      5.813
+     ],
+     "via": "door"
+    }
+   ],
+   "near": [
+    "balcony_01",
+    "balcony_04",
+    "balcony_02",
+    "balcony_03",
+    "living_11"
+   ]
+  },
+  {
+   "id": "bed1_01",
+   "room": "bed1",
+   "title": "Bedroom 1",
+   "line": "11'0\" × 14'0\" · 3.35 × 4.27 m",
+   "label": "Bedroom 1, inside its door",
+   "pano": "pano",
+   "pos": [
+    0.336,
+    36.454,
+    3.652
+   ],
+   "dir0": [
+    -0.2588,
+    0.0,
+    0.9659
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed1_02",
+     "kind": "floor",
+     "spot": [
+      0.386,
+      34.854,
+      4.802
+     ]
+    },
+    {
+     "to": "vest_02",
+     "kind": "floor",
+     "spot": [
+      0.76,
+      34.854,
+      0.733
+     ]
+    }
+   ],
+   "near": [
+    "bed1_02",
+    "bed1_04",
+    "vest_02",
+    "vest_01",
+    "bed1_05",
+    "living_01"
+   ]
+  },
+  {
+   "id": "bed1_02",
+   "room": "bed1",
+   "title": "Bedroom 1",
+   "line": "11'0\" × 14'0\" · 3.35 × 4.27 m",
+   "label": "Bedroom 1, by the console",
+   "pano": "pano",
+   "pos": [
+    0.386,
+    36.454,
+    4.802
+   ],
+   "dir0": [
+    -0.6691,
+    0.0,
+    0.7431
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed1_01",
+     "kind": "floor",
+     "spot": [
+      0.336,
+      34.854,
+      3.652
+     ]
+    },
+    {
+     "to": "bed1_03",
+     "kind": "floor",
+     "spot": [
+      -1.464,
+      34.854,
+      4.552
+     ]
+    },
+    {
+     "to": "bed1_04",
+     "kind": "floor",
+     "spot": [
+      0.336,
+      34.854,
+      6.402
+     ]
+    },
+    {
+     "to": "bed1_05",
+     "kind": "door",
+     "spot": [
+      -0.854,
+      35.854,
+      6.973
+     ]
+    }
+   ],
+   "near": [
+    "bed1_01",
+    "bed1_04",
+    "bed1_03",
+    "bed1_05"
+   ]
+  },
+  {
+   "id": "bed1_03",
+   "room": "bed1",
+   "title": "Bedroom 1",
+   "line": "11'0\" × 14'0\" · 3.35 × 4.27 m",
+   "label": "Bedroom 1, by the wardrobe",
+   "pano": "pano",
+   "pos": [
+    -1.464,
+    36.454,
+    4.552
+   ],
+   "dir0": [
+    0.309,
+    0.0,
+    0.9511
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed1_02",
+     "kind": "floor",
+     "spot": [
+      0.386,
+      34.854,
+      4.802
+     ]
+    },
+    {
+     "to": "bed1_04",
+     "kind": "door",
+     "spot": [
+      0.279,
+      35.854,
+      6.344
+     ]
+    },
+    {
+     "to": "bed1_05",
+     "kind": "door",
+     "spot": [
+      -1.053,
+      35.854,
+      7.018
+     ]
+    }
+   ],
+   "near": [
+    "bed1_02",
+    "bed1_04",
+    "bed1_05"
+   ]
+  },
+  {
+   "id": "bed1_04",
+   "room": "bed1",
+   "title": "Bedroom 1",
+   "line": "11'0\" × 14'0\" · 3.35 × 4.27 m",
+   "label": "Bedroom 1, at the foot of the bed",
+   "pano": "pano",
+   "pos": [
+    0.336,
+    36.454,
+    6.402
+   ],
+   "dir0": [
+    -0.454,
+    0.0,
+    -0.891
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "bed1_02",
+     "kind": "floor",
+     "spot": [
+      0.386,
+      34.854,
+      4.802
+     ]
+    },
+    {
+     "to": "bed1_03",
+     "kind": "door",
+     "spot": [
+      -1.407,
+      35.854,
+      4.61
+     ]
+    },
+    {
+     "to": "bed1_05",
+     "kind": "floor",
+     "spot": [
+      -1.014,
+      34.854,
+      7.252
+     ]
+    }
+   ],
+   "near": [
+    "bed1_02",
+    "bed1_05",
+    "bed1_03",
+    "bed1_01"
+   ]
+  },
+  {
+   "id": "bed1_05",
+   "room": "bed1",
+   "title": "Bedroom 1",
+   "line": "11'0\" × 14'0\" · 3.35 × 4.27 m",
+   "label": "Bedroom 1, by the balcony door",
+   "pano": "pano",
+   "pos": [
+    -1.014,
+    36.454,
+    7.252
+   ],
+   "dir0": [
+    0.1564,
+    0.0,
+    -0.9877
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed1_02",
+     "kind": "door",
+     "spot": [
+      0.226,
+      35.854,
+      5.081
+     ]
+    },
+    {
+     "to": "bed1_03",
+     "kind": "door",
+     "spot": [
+      -1.425,
+      35.854,
+      4.786
+     ]
+    },
+    {
+     "to": "bed1_04",
+     "kind": "door",
+     "spot": [
+      0.336,
+      35.854,
+      6.402
+     ]
+    }
+   ],
+   "near": [
+    "bed1_04",
+    "bed1_03",
+    "bed1_02",
+    "bed1_01"
+   ]
+  },
+  {
+   "id": "t0",
+   "room": "t0",
+   "title": "Common toilet",
+   "line": "7'1\" × 5'0\" · 2.16 × 1.52 m",
+   "label": "Common toilet",
+   "pano": "pano",
+   "pos": [
+    -0.992,
+    36.454,
+    2.628
+   ],
+   "dir0": [
+    0.809,
+    0.0,
+    -0.5878
+   ],
+   "eye_h": 1.601,
+   "links": [
+    {
+     "to": "living_02",
+     "kind": "floor",
+     "spot": [
+      1.604,
+      34.854,
+      1.227
+     ]
+    }
+   ],
+   "near": [
+    "living_02"
+   ]
+  },
+  {
+   "id": "bed2_01",
+   "room": "bed2",
+   "title": "Bedroom 2",
+   "line": "11'0\" × 15'0\" · 3.35 × 4.57 m",
+   "label": "Bedroom 2, inside its door",
+   "pano": "pano",
+   "pos": [
+    7.882,
+    36.454,
+    3.689
+   ],
+   "dir0": [
+    -0.3584,
+    0.0,
+    -0.9336
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed2_02",
+     "kind": "floor",
+     "spot": [
+      8.232,
+      34.854,
+      5.139
+     ]
+    },
+    {
+     "to": "bed2_04",
+     "kind": "floor",
+     "spot": [
+      7.082,
+      34.854,
+      5.289
+     ]
+    },
+    {
+     "to": "kitchen_09",
+     "kind": "floor",
+     "spot": [
+      7.44,
+      34.854,
+      2.792
+     ]
+    },
+    {
+     "to": "kitchen_11",
+     "kind": "floor",
+     "spot": [
+      8.255,
+      34.854,
+      2.224
+     ]
+    }
+   ],
+   "near": [
+    "kitchen_09",
+    "bed2_02",
+    "kitchen_11",
+    "bed2_04",
+    "bed2_05",
+    "kitchen_08",
+    "kitchen_01",
+    "bed2_06",
+    "bed2_07",
+    "kitchen_03"
+   ]
+  },
+  {
+   "id": "bed2_02",
+   "room": "bed2",
+   "title": "Bedroom 2",
+   "line": "11'0\" × 15'0\" · 3.35 × 4.57 m",
+   "label": "Bedroom 2, by the toilet door",
+   "pano": "pano",
+   "pos": [
+    8.232,
+    36.454,
+    5.139
+   ],
+   "dir0": [
+    -0.866,
+    0.0,
+    0.5
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed2_01",
+     "kind": "floor",
+     "spot": [
+      7.882,
+      34.854,
+      3.689
+     ]
+    },
+    {
+     "to": "bed2_03",
+     "kind": "floor",
+     "spot": [
+      6.332,
+      34.854,
+      4.589
+     ]
+    },
+    {
+     "to": "bed2_04",
+     "kind": "floor",
+     "spot": [
+      7.082,
+      34.854,
+      5.289
+     ]
+    },
+    {
+     "to": "bed2_05",
+     "kind": "floor",
+     "spot": [
+      6.932,
+      34.854,
+      6.289
+     ]
+    },
+    {
+     "to": "t2",
+     "kind": "floor",
+     "spot": [
+      9.385,
+      34.854,
+      5.565
+     ]
+    }
+   ],
+   "near": [
+    "bed2_04",
+    "t2",
+    "bed2_01",
+    "bed2_05",
+    "bed2_03",
+    "kitchen_09",
+    "bed2_07",
+    "kitchen_11"
+   ]
+  },
+  {
+   "id": "bed2_03",
+   "room": "bed2",
+   "title": "Bedroom 2",
+   "line": "11'0\" × 15'0\" · 3.35 × 4.57 m",
+   "label": "Bedroom 2, by the daybed",
+   "pano": "pano",
+   "pos": [
+    6.332,
+    36.454,
+    4.589
+   ],
+   "dir0": [
+    0.2079,
+    0.0,
+    0.9781
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "bed2_02",
+     "kind": "floor",
+     "spot": [
+      8.232,
+      34.854,
+      5.139
+     ]
+    },
+    {
+     "to": "bed2_04",
+     "kind": "floor",
+     "spot": [
+      7.082,
+      34.854,
+      5.289
+     ]
+    },
+    {
+     "to": "bed2_05",
+     "kind": "floor",
+     "spot": [
+      6.932,
+      34.854,
+      6.289
+     ]
+    }
+   ],
+   "near": [
+    "bed2_04",
+    "bed2_05",
+    "bed2_02",
+    "bed2_07",
+    "bed2_06",
+    "t2"
+   ]
+  },
+  {
+   "id": "bed2_04",
+   "room": "bed2",
+   "title": "Bedroom 2",
+   "line": "11'0\" × 15'0\" · 3.35 × 4.57 m",
+   "label": "Bedroom 2, the middle of the room",
+   "pano": "pano",
+   "pos": [
+    7.082,
+    36.454,
+    5.289
+   ],
+   "dir0": [
+    -0.1045,
+    0.0,
+    0.9945
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "bed2_01",
+     "kind": "floor",
+     "spot": [
+      7.882,
+      34.854,
+      3.689
+     ]
+    },
+    {
+     "to": "bed2_02",
+     "kind": "floor",
+     "spot": [
+      8.232,
+      34.854,
+      5.139
+     ]
+    },
+    {
+     "to": "bed2_03",
+     "kind": "floor",
+     "spot": [
+      6.332,
+      34.854,
+      4.589
+     ]
+    },
+    {
+     "to": "bed2_05",
+     "kind": "floor",
+     "spot": [
+      6.932,
+      34.854,
+      6.289
+     ]
+    }
+   ],
+   "near": [
+    "bed2_05",
+    "bed2_03",
+    "bed2_02",
+    "bed2_01",
+    "bed2_07",
+    "bed2_06",
+    "t2",
+    "kitchen_11"
+   ]
+  },
+  {
+   "id": "bed2_05",
+   "room": "bed2",
+   "title": "Bedroom 2",
+   "line": "11'0\" × 15'0\" · 3.35 × 4.57 m",
+   "label": "Bedroom 2, toward the window",
+   "pano": "pano",
+   "pos": [
+    6.932,
+    36.454,
+    6.289
+   ],
+   "dir0": [
+    0.454,
+    0.0,
+    -0.891
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "bed2_02",
+     "kind": "floor",
+     "spot": [
+      8.232,
+      34.854,
+      5.139
+     ]
+    },
+    {
+     "to": "bed2_03",
+     "kind": "floor",
+     "spot": [
+      6.332,
+      34.854,
+      4.589
+     ]
+    },
+    {
+     "to": "bed2_04",
+     "kind": "floor",
+     "spot": [
+      7.082,
+      34.854,
+      5.289
+     ]
+    },
+    {
+     "to": "bed2_06",
+     "kind": "floor",
+     "spot": [
+      7.882,
+      34.854,
+      7.339
+     ]
+    },
+    {
+     "to": "bed2_07",
+     "kind": "floor",
+     "spot": [
+      6.682,
+      34.854,
+      7.289
+     ]
+    }
+   ],
+   "near": [
+    "bed2_04",
+    "bed2_07",
+    "bed2_06",
+    "bed2_02",
+    "bed2_03",
+    "bed2_01"
+   ]
+  },
+  {
+   "id": "bed2_06",
+   "room": "bed2",
+   "title": "Bedroom 2",
+   "line": "11'0\" × 15'0\" · 3.35 × 4.57 m",
+   "label": "Bedroom 2, by the desk",
+   "pano": "pano",
+   "pos": [
+    7.882,
+    36.454,
+    7.339
+   ],
+   "dir0": [
+    -0.5,
+    0.0,
+    -0.866
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed2_05",
+     "kind": "floor",
+     "spot": [
+      6.932,
+      34.854,
+      6.289
+     ]
+    },
+    {
+     "to": "bed2_07",
+     "kind": "floor",
+     "spot": [
+      6.682,
+      34.854,
+      7.289
+     ]
+    }
+   ],
+   "near": [
+    "bed2_07",
+    "bed2_05",
+    "bed2_04",
+    "bed2_03",
+    "bed2_01"
+   ]
+  },
+  {
+   "id": "bed2_07",
+   "room": "bed2",
+   "title": "Bedroom 2",
+   "line": "11'0\" × 15'0\" · 3.35 × 4.57 m",
+   "label": "Bedroom 2, by the window",
+   "pano": "pano",
+   "pos": [
+    6.682,
+    36.454,
+    7.289
+   ],
+   "dir0": [
+    0.1045,
+    0.0,
+    -0.9945
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed2_05",
+     "kind": "floor",
+     "spot": [
+      6.932,
+      34.854,
+      6.289
+     ]
+    },
+    {
+     "to": "bed2_06",
+     "kind": "floor",
+     "spot": [
+      7.882,
+      34.854,
+      7.339
+     ]
+    }
+   ],
+   "near": [
+    "bed2_05",
+    "bed2_06",
+    "bed2_04",
+    "bed2_02",
+    "bed2_03",
+    "bed2_01"
+   ]
+  },
+  {
+   "id": "t2",
+   "room": "t2",
+   "title": "Bedroom 2 toilet",
+   "line": "5'0\" × 11'1\" · 1.52 × 3.38 m",
+   "label": "Bedroom 2 toilet",
+   "pano": "pano",
+   "pos": [
+    9.385,
+    36.454,
+    5.565
+   ],
+   "dir0": [
+    -0.7431,
+    0.0,
+    -0.6691
+   ],
+   "eye_h": 1.601,
+   "links": [
+    {
+     "to": "bed2_02",
+     "kind": "floor",
+     "spot": [
+      8.232,
+      34.854,
+      5.139
+     ]
+    }
+   ],
+   "near": [
+    "bed2_02",
+    "bed2_04",
+    "bed2_03"
+   ]
+  },
+  {
+   "id": "master_01",
+   "room": "master",
+   "title": "Master bedroom",
+   "line": "12'0\" × 17'0\" · 3.66 × 5.18 m",
+   "label": "Master bedroom, inside its door",
+   "pano": "pano",
+   "pos": [
+    10.922,
+    36.454,
+    2.859
+   ],
+   "dir0": [
+    0.4067,
+    0.0,
+    0.9135
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "kitchen_11",
+     "kind": "floor",
+     "spot": [
+      8.255,
+      34.854,
+      2.224
+     ]
+    },
+    {
+     "to": "master_02",
+     "kind": "floor",
+     "spot": [
+      12.022,
+      34.854,
+      3.409
+     ]
+    }
+   ],
+   "near": [
+    "master_02",
+    "master_03",
+    "kitchen_11",
+    "master_05",
+    "master_04",
+    "kitchen_09",
+    "master_06",
+    "master_07"
+   ]
+  },
+  {
+   "id": "master_02",
+   "room": "master",
+   "title": "Master bedroom",
+   "line": "12'0\" × 17'0\" · 3.66 × 5.18 m",
+   "label": "Master bedroom, by the wardrobe",
+   "pano": "pano",
+   "pos": [
+    12.022,
+    36.454,
+    3.409
+   ],
+   "dir0": [
+    0.0,
+    0.0,
+    1.0
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "master_01",
+     "kind": "floor",
+     "spot": [
+      10.922,
+      34.854,
+      2.859
+     ]
+    },
+    {
+     "to": "master_03",
+     "kind": "floor",
+     "spot": [
+      13.222,
+      34.854,
+      3.659
+     ]
+    },
+    {
+     "to": "master_04",
+     "kind": "door",
+     "spot": [
+      11.168,
+      35.854,
+      5.758
+     ]
+    },
+    {
+     "to": "master_05",
+     "kind": "door",
+     "spot": [
+      12.972,
+      35.854,
+      5.159
+     ]
+    }
+   ],
+   "near": [
+    "master_01",
+    "master_03",
+    "master_05",
+    "master_06",
+    "master_04",
+    "master_07",
+    "master_08",
+    "kitchen_11"
+   ]
+  },
+  {
+   "id": "master_03",
+   "room": "master",
+   "title": "Master bedroom",
+   "line": "12'0\" × 17'0\" · 3.66 × 5.18 m",
+   "label": "Master bedroom, by the dresser",
+   "pano": "pano",
+   "pos": [
+    13.222,
+    36.454,
+    3.659
+   ],
+   "dir0": [
+    -0.4067,
+    0.0,
+    0.9135
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "master_02",
+     "kind": "floor",
+     "spot": [
+      12.022,
+      34.854,
+      3.409
+     ]
+    },
+    {
+     "to": "master_05",
+     "kind": "floor",
+     "spot": [
+      12.972,
+      34.854,
+      5.159
+     ]
+    }
+   ],
+   "near": [
+    "master_02",
+    "master_05",
+    "master_01",
+    "master_06",
+    "master_08",
+    "master_04",
+    "master_07"
+   ]
+  },
+  {
+   "id": "master_04",
+   "room": "master",
+   "title": "Master bedroom",
+   "line": "12'0\" × 17'0\" · 3.66 × 5.18 m",
+   "label": "Master bedroom, by the reading chair",
+   "pano": "pano",
+   "pos": [
+    11.022,
+    36.454,
+    6.159
+   ],
+   "dir0": [
+    0.3584,
+    0.0,
+    -0.9336
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "master_02",
+     "kind": "door",
+     "spot": [
+      11.876,
+      35.854,
+      3.81
+     ]
+    },
+    {
+     "to": "master_05",
+     "kind": "door",
+     "spot": [
+      12.972,
+      35.854,
+      5.159
+     ]
+    },
+    {
+     "to": "master_06",
+     "kind": "floor",
+     "spot": [
+      12.722,
+      34.854,
+      6.159
+     ]
+    },
+    {
+     "to": "master_07",
+     "kind": "floor",
+     "spot": [
+      11.872,
+      34.854,
+      6.709
+     ]
+    }
+   ],
+   "near": [
+    "master_07",
+    "master_06",
+    "master_05",
+    "master_08",
+    "master_02",
+    "master_01",
+    "master_03"
+   ]
+  },
+  {
+   "id": "master_05",
+   "room": "master",
+   "title": "Master bedroom",
+   "line": "12'0\" × 17'0\" · 3.66 × 5.18 m",
+   "label": "Master bedroom, at the foot of the bed",
+   "pano": "pano",
+   "pos": [
+    12.972,
+    36.454,
+    5.159
+   ],
+   "dir0": [
+    -0.9135,
+    0.0,
+    -0.4067
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "master_02",
+     "kind": "door",
+     "spot": [
+      12.022,
+      35.854,
+      3.409
+     ]
+    },
+    {
+     "to": "master_03",
+     "kind": "floor",
+     "spot": [
+      13.222,
+      34.854,
+      3.659
+     ]
+    },
+    {
+     "to": "master_04",
+     "kind": "door",
+     "spot": [
+      11.022,
+      35.854,
+      6.159
+     ]
+    },
+    {
+     "to": "master_06",
+     "kind": "floor",
+     "spot": [
+      12.722,
+      34.854,
+      6.159
+     ]
+    },
+    {
+     "to": "master_08",
+     "kind": "floor",
+     "spot": [
+      13.672,
+      34.854,
+      6.559
+     ]
+    }
+   ],
+   "near": [
+    "master_06",
+    "master_03",
+    "master_08",
+    "master_07",
+    "master_02",
+    "master_04",
+    "master_01"
+   ]
+  },
+  {
+   "id": "master_06",
+   "room": "master",
+   "title": "Master bedroom",
+   "line": "12'0\" × 17'0\" · 3.66 × 5.18 m",
+   "label": "Master bedroom, toward the toilet",
+   "pano": "pano",
+   "pos": [
+    12.722,
+    36.454,
+    6.159
+   ],
+   "dir0": [
+    -0.2079,
+    0.0,
+    -0.9781
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "master_04",
+     "kind": "floor",
+     "spot": [
+      11.022,
+      34.854,
+      6.159
+     ]
+    },
+    {
+     "to": "master_05",
+     "kind": "floor",
+     "spot": [
+      12.972,
+      34.854,
+      5.159
+     ]
+    },
+    {
+     "to": "master_07",
+     "kind": "floor",
+     "spot": [
+      11.872,
+      34.854,
+      6.709
+     ]
+    },
+    {
+     "to": "master_08",
+     "kind": "floor",
+     "spot": [
+      13.672,
+      34.854,
+      6.559
+     ]
+    }
+   ],
+   "near": [
+    "master_07",
+    "master_05",
+    "master_08",
+    "master_04",
+    "master_03",
+    "master_02",
+    "master_01"
+   ]
+  },
+  {
+   "id": "master_07",
+   "room": "master",
+   "title": "Master bedroom",
+   "line": "12'0\" × 17'0\" · 3.66 × 5.18 m",
+   "label": "Master bedroom, by the windows",
+   "pano": "pano",
+   "pos": [
+    11.872,
+    36.454,
+    6.709
+   ],
+   "dir0": [
+    0.1045,
+    0.0,
+    -0.9945
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "master_04",
+     "kind": "floor",
+     "spot": [
+      11.022,
+      34.854,
+      6.159
+     ]
+    },
+    {
+     "to": "master_06",
+     "kind": "floor",
+     "spot": [
+      12.722,
+      34.854,
+      6.159
+     ]
+    },
+    {
+     "to": "master_08",
+     "kind": "floor",
+     "spot": [
+      13.672,
+      34.854,
+      6.559
+     ]
+    }
+   ],
+   "near": [
+    "master_04",
+    "master_06",
+    "master_08",
+    "master_05",
+    "master_02",
+    "master_03",
+    "master_01"
+   ]
+  },
+  {
+   "id": "master_08",
+   "room": "master",
+   "title": "Master bedroom",
+   "line": "12'0\" × 17'0\" · 3.66 × 5.18 m",
+   "label": "Master bedroom, at the toilet door",
+   "pano": "pano",
+   "pos": [
+    13.672,
+    36.454,
+    6.559
+   ],
+   "dir0": [
+    -0.5,
+    0.0,
+    -0.866
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "master_05",
+     "kind": "floor",
+     "spot": [
+      12.972,
+      34.854,
+      5.159
+     ]
+    },
+    {
+     "to": "master_06",
+     "kind": "floor",
+     "spot": [
+      12.722,
+      34.854,
+      6.159
+     ]
+    },
+    {
+     "to": "master_07",
+     "kind": "floor",
+     "spot": [
+      11.872,
+      34.854,
+      6.709
+     ]
+    },
+    {
+     "to": "tm",
+     "kind": "floor",
+     "spot": [
+      14.927,
+      34.854,
+      6.01
+     ]
+    }
+   ],
+   "near": [
+    "master_06",
+    "tm",
+    "master_05",
+    "master_07",
+    "master_04",
+    "master_03",
+    "master_02"
+   ]
+  },
+  {
+   "id": "tm",
+   "room": "tm",
+   "title": "Master toilet",
+   "line": "6'0\" × 9'8\" · 1.83 × 2.95 m",
+   "label": "Master toilet",
+   "pano": "pano",
+   "pos": [
+    14.927,
+    36.454,
+    6.01
+   ],
+   "dir0": [
+    -0.6691,
+    0.0,
+    0.7431
+   ],
+   "eye_h": 1.601,
+   "links": [
+    {
+     "to": "master_08",
+     "kind": "floor",
+     "spot": [
+      13.672,
+      34.854,
+      6.559
+     ]
+    }
+   ],
+   "near": [
+    "master_08"
+   ]
+  },
+  {
+   "id": "bed3_01",
+   "room": "bed3",
+   "title": "Bedroom 3",
+   "line": "14'11\" × 11'0\" · 4.55 × 3.35 m",
+   "label": "Bedroom 3, inside its door",
+   "pano": "pano",
+   "pos": [
+    11.148,
+    36.454,
+    1.559
+   ],
+   "dir0": [
+    -0.9945,
+    0.0,
+    0.1045
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed3_02",
+     "kind": "floor",
+     "spot": [
+      12.448,
+      34.854,
+      1.709
+     ]
+    },
+    {
+     "to": "bed3_04",
+     "kind": "door",
+     "spot": [
+      13.072,
+      35.854,
+      -0.037
+     ]
+    },
+    {
+     "to": "bed3_05",
+     "kind": "door",
+     "spot": [
+      13.545,
+      35.854,
+      0.848
+     ]
+    },
+    {
+     "to": "kitchen_11",
+     "kind": "floor",
+     "spot": [
+      8.255,
+      34.854,
+      2.224
+     ]
+    }
+   ],
+   "near": [
+    "bed3_02",
+    "bed3_03",
+    "bed3_04",
+    "kitchen_11",
+    "bed3_05",
+    "kitchen_09"
+   ]
+  },
+  {
+   "id": "bed3_02",
+   "room": "bed3",
+   "title": "Bedroom 3",
+   "line": "14'11\" × 11'0\" · 4.55 × 3.35 m",
+   "label": "Bedroom 3, at the foot of the bed",
+   "pano": "pano",
+   "pos": [
+    12.448,
+    36.454,
+    1.709
+   ],
+   "dir0": [
+    -0.9135,
+    0.0,
+    -0.4067
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed3_01",
+     "kind": "floor",
+     "spot": [
+      11.148,
+      34.854,
+      1.559
+     ]
+    },
+    {
+     "to": "bed3_03",
+     "kind": "floor",
+     "spot": [
+      13.698,
+      34.854,
+      1.409
+     ]
+    },
+    {
+     "to": "bed3_04",
+     "kind": "door",
+     "spot": [
+      13.198,
+      35.854,
+      -0.141
+     ]
+    }
+   ],
+   "near": [
+    "bed3_03",
+    "bed3_01",
+    "bed3_04",
+    "bed3_05"
+   ]
+  },
+  {
+   "id": "bed3_03",
+   "room": "bed3",
+   "title": "Bedroom 3",
+   "line": "14'11\" × 11'0\" · 4.55 × 3.35 m",
+   "label": "Bedroom 3, by the toilet door",
+   "pano": "pano",
+   "pos": [
+    13.698,
+    36.454,
+    1.409
+   ],
+   "dir0": [
+    -0.9511,
+    0.0,
+    -0.309
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed3_02",
+     "kind": "floor",
+     "spot": [
+      12.448,
+      34.854,
+      1.709
+     ]
+    },
+    {
+     "to": "bed3_04",
+     "kind": "floor",
+     "spot": [
+      13.198,
+      34.854,
+      -0.141
+     ]
+    },
+    {
+     "to": "bed3_05",
+     "kind": "floor",
+     "spot": [
+      14.348,
+      34.854,
+      0.609
+     ]
+    },
+    {
+     "to": "t3",
+     "kind": "floor",
+     "spot": [
+      14.891,
+      34.854,
+      3.431
+     ]
+    }
+   ],
+   "near": [
+    "bed3_05",
+    "bed3_02",
+    "bed3_04",
+    "t3",
+    "bed3_01"
+   ]
+  },
+  {
+   "id": "bed3_04",
+   "room": "bed3",
+   "title": "Bedroom 3",
+   "line": "14'11\" × 11'0\" · 4.55 × 3.35 m",
+   "label": "Bedroom 3, by the study desk",
+   "pano": "pano",
+   "pos": [
+    13.198,
+    36.454,
+    -0.141
+   ],
+   "dir0": [
+    -0.6293,
+    0.0,
+    0.7771
+   ],
+   "eye_h": 1.59,
+   "links": [
+    {
+     "to": "bed3_01",
+     "kind": "door",
+     "spot": [
+      11.274,
+      35.854,
+      1.455
+     ]
+    },
+    {
+     "to": "bed3_02",
+     "kind": "door",
+     "spot": [
+      12.448,
+      35.854,
+      1.709
+     ]
+    },
+    {
+     "to": "bed3_03",
+     "kind": "floor",
+     "spot": [
+      13.698,
+      34.854,
+      1.409
+     ]
+    },
+    {
+     "to": "bed3_05",
+     "kind": "floor",
+     "spot": [
+      14.348,
+      34.854,
+      0.609
+     ]
+    }
+   ],
+   "near": [
+    "bed3_05",
+    "bed3_03",
+    "bed3_02",
+    "bed3_01",
+    "t3"
+   ]
+  },
+  {
+   "id": "bed3_05",
+   "room": "bed3",
+   "title": "Bedroom 3",
+   "line": "14'11\" × 11'0\" · 4.55 × 3.35 m",
+   "label": "Bedroom 3, by the window",
+   "pano": "pano",
+   "pos": [
+    14.348,
+    36.454,
+    0.609
+   ],
+   "dir0": [
+    -1.0,
+    0.0,
+    0.0
+   ],
+   "eye_h": 1.6,
+   "links": [
+    {
+     "to": "bed3_01",
+     "kind": "floor",
+     "spot": [
+      11.52,
+      34.854,
+      1.449
+     ]
+    },
+    {
+     "to": "bed3_03",
+     "kind": "floor",
+     "spot": [
+      13.698,
+      34.854,
+      1.409
+     ]
+    },
+    {
+     "to": "bed3_04",
+     "kind": "floor",
+     "spot": [
+      13.198,
+      34.854,
+      -0.141
+     ]
+    }
+   ],
+   "near": [
+    "bed3_03",
+    "bed3_04",
+    "bed3_02",
+    "t3",
+    "bed3_01"
+   ]
+  },
+  {
+   "id": "t3",
+   "room": "t3",
+   "title": "Bedroom 3 toilet",
+   "line": "6'0\" × 7'0\" · 1.83 × 2.13 m",
+   "label": "Bedroom 3 toilet",
+   "pano": "pano",
+   "pos": [
+    14.891,
+    36.454,
+    3.431
+   ],
+   "dir0": [
+    -0.6293,
+    0.0,
+    -0.7771
+   ],
+   "eye_h": 1.601,
+   "links": [
+    {
+     "to": "bed3_03",
+     "kind": "floor",
+     "spot": [
+      13.698,
+      34.854,
+      1.409
+     ]
+    }
+   ],
+   "near": [
+    "bed3_03",
+    "bed3_05",
+    "bed3_04"
+   ]
+  }
+ ]
+}
